@@ -30,7 +30,7 @@
 .left h1{
     color: #ec1321;
     left: 10%;
-    top: 20%;
+    top: 25%;
     position: relative;
     font-size: 60px;
 }
@@ -149,13 +149,11 @@ button:hover{
 
 }
 img{
-    height: 600px;
+    height: 400px;
     right: 22%;
-    top: 17%;
-    position: absolute;
+    top: 100%;
     
-
-
+    position: absolute;
 
 
 }
