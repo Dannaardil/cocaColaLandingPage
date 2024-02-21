@@ -124,12 +124,22 @@ button:hover{
 }
 
 .menu a:nth-child(1){
+   color: #ec1321;
+   font-weight:bold ;
+
+}
+.menu a::after{
     content: '';
     position: absolute;
     width:  100%;
     height: 3px;
     bottom: 0;
     background: #ec1321
+}
+.menu a:hover:after{
+    width:100% ;
+    transition:0.2;
+    
 
 
 
