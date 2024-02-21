@@ -149,9 +149,9 @@ button:hover{
 
 }
 img{
-    height: 400px;
+    height: 500px;
     right: 22%;
-    top: 100%;
+    top: 170%;
     
     position: absolute;
 
@@ -169,7 +169,7 @@ img{
 
 }
 .media-shop svg{
-    width:  20px;
+    width:  35px;
 }
 .media-shop path{
     fill: #fff;
