@@ -147,6 +147,13 @@ button:hover{
     width:100% ;
     transition:0.2s ease;
 
+}
+img{
+    height: 600px;
+    right: 22%;
+    top: 17%;
+    position: absolute;
+    
 
 
 
